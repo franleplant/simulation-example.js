@@ -1,0 +1,17 @@
+{
+  "name": "simulation-example",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "franleplant@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "1.1.1",
+    "moment": "2.11.2",
+    "pad": "1.0.0"
+  }
+}
